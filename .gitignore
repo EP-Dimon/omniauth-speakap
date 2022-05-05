@@ -1,0 +1,12 @@
+*.gem
+*.rbc
+.bundle
+.config
+Gemfile.lock
+_yardoc
+coverage
+doc/
+lib/bundler/man
+pkg
+rdoc
+tmp
